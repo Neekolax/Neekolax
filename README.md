@@ -1,6 +1,9 @@
-**Olá pessoal, meu nome é Nicolas
+**Olá mundo, meu nome é Nicolas e sou um mero estudante de Programação!**
 
-- 👩‍💻 Estou estudando JavaScritp e HTML
+- 🖥️ Dev in Process;
+- 👩‍💻 Estou estudando JavaScritp e HTML;
+- 📚 Estou cursando Pedagogia na Cruzeiro do Sul Virtual;
+- 🎥 Faço conteúdos na Twitch, mas para pessoas que apreciam gameplays de Valorant;
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
