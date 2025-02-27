@@ -2,12 +2,11 @@
 
 - 🖥️ Dev in Process;
 - 👩‍💻 Estou estudando JavaScritp e HTML;
-- 📚 Estou cursando Pedagogia na Cruzeiro do Sul Virtual;
+- 📚 Estou cursando Design Gráfico na Cruzeiro do Sul Virtual;
 - 🎥 Faço conteúdos na Twitch, mas para pessoas que apreciam gameplays de Valorant;
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nicolas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Nicolas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nicolas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
